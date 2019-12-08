@@ -1,0 +1,81 @@
+* {
+	margin: 0 auto;
+	padding: 0;
+
+}
+
+body {
+	width: 50%;
+}
+
+.wrapper {
+
+	border: 1px solid black;
+	width: 50%;
+	padding: 40px;
+	border-radius: 3px;
+	-webkit-box-shadow: -1px -3px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px -3px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: -1px -3px 5px 0px rgba(0,0,0,0.75);
+	line-height: 1.5;
+
+}
+
+.name {
+
+	text-align: center;
+	padding-bottom: 10px;
+	border-bottom: 1px solid black;
+
+}
+
+h1 {
+	font-size: 20px;
+	
+}
+
+
+img {
+	margin-top: 20px;
+	height: 120px;
+}
+
+.name p {
+	text-align: left;
+	padding-left: 10px;
+}
+
+.list {
+	border-bottom: 1px solid black;
+	padding-left: 10px; 
+}
+
+ul {
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.list p {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.text {
+	margin-top: 20px;
+}
+
+.text1 {
+	margin-bottom: 30px;
+}
+
+.contact {
+	padding-left: 10px;
+	padding-bottom: 20px;
+}
+
+
+.footer {
+	border-top: 1px solid black;
+	padding-left: 10px;
+	padding-top: 15px;
+}
